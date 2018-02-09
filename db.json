@@ -2,325 +2,130 @@
   {
     "Header": [
       {
-        "Remittance_No": "RT334",
-        "Payer_Code": "PC848",
+        "Remittance_No": "RT733",
+        "Payer_Code": "PC579",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG721",
-        "Transfer_Reference": "REF637",
-        "Trasfer_Date": "2017-02-18",
-        "Trasfer_Amount": 11001
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT812",
-        "Remittance_Invoice_No": "RIV501",
-        "Provider_Invoice_Number": "PRO119",
-        "Payer_Invoice_Number": "IV488",
-        "Trasfer_Date": "2016-11-11",
-        "Invoice_Amount": 11546,
-        "Paid_Amount": 18926,
-        "Discount_Amount": 17783
+        "Transfer_Number": "RTG886",
+        "Transfer_Reference": "REF235",
+        "Trasfer_Date": "2017-05-06",
+        "Trasfer_Amount": 15646
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT127",
-        "Payer_Code": "PC634",
+        "Remittance_No": "RT118",
+        "Payer_Code": "PC162",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG694",
-        "Transfer_Reference": "REF740",
-        "Trasfer_Date": "2017-02-27",
-        "Trasfer_Amount": 15548
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT587",
-        "Remittance_Invoice_No": "RIV280",
-        "Provider_Invoice_Number": "PRO839",
-        "Payer_Invoice_Number": "IV706",
-        "Trasfer_Date": "2017-06-01",
-        "Invoice_Amount": 14887,
-        "Paid_Amount": 18113,
-        "Discount_Amount": 12320
+        "Transfer_Number": "RTG679",
+        "Transfer_Reference": "REF151",
+        "Trasfer_Date": "2018-01-13",
+        "Trasfer_Amount": 12943
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT757",
-        "Payer_Code": "PC773",
+        "Remittance_No": "RT343",
+        "Payer_Code": "PC843",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG351",
-        "Transfer_Reference": "REF282",
-        "Trasfer_Date": "2016-04-12",
-        "Trasfer_Amount": 12951
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT646",
-        "Remittance_Invoice_No": "RIV505",
-        "Provider_Invoice_Number": "PRO148",
-        "Payer_Invoice_Number": "IV207",
-        "Trasfer_Date": "2017-09-26",
-        "Invoice_Amount": 18941,
-        "Paid_Amount": 17927,
-        "Discount_Amount": 10899
+        "Transfer_Number": "RTG852",
+        "Transfer_Reference": "REF112",
+        "Trasfer_Date": "2016-05-16",
+        "Trasfer_Amount": 16706
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT832",
-        "Payer_Code": "PC592",
+        "Remittance_No": "RT304",
+        "Payer_Code": "PC801",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG191",
-        "Transfer_Reference": "REF163",
-        "Trasfer_Date": "2017-05-01",
-        "Trasfer_Amount": 18988
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT219",
-        "Remittance_Invoice_No": "RIV287",
-        "Provider_Invoice_Number": "PRO197",
-        "Payer_Invoice_Number": "IV238",
-        "Trasfer_Date": "2016-01-17",
-        "Invoice_Amount": 13854,
-        "Paid_Amount": 16413,
-        "Discount_Amount": 13963
+        "Transfer_Number": "RTG369",
+        "Transfer_Reference": "REF193",
+        "Trasfer_Date": "2016-01-27",
+        "Trasfer_Amount": 19933
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT590",
-        "Payer_Code": "PC185",
+        "Remittance_No": "RT136",
+        "Payer_Code": "PC672",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG640",
-        "Transfer_Reference": "REF507",
-        "Trasfer_Date": "2017-08-12",
-        "Trasfer_Amount": 12144
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT900",
-        "Remittance_Invoice_No": "RIV440",
-        "Provider_Invoice_Number": "PRO336",
-        "Payer_Invoice_Number": "IV167",
-        "Trasfer_Date": "2016-01-07",
-        "Invoice_Amount": 13604,
-        "Paid_Amount": 16119,
-        "Discount_Amount": 12741
+        "Transfer_Number": "RTG495",
+        "Transfer_Reference": "REF352",
+        "Trasfer_Date": "2016-12-28",
+        "Trasfer_Amount": 16101
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT383",
-        "Payer_Code": "PC117",
+        "Remittance_No": "RT116",
+        "Payer_Code": "PC220",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG340",
-        "Transfer_Reference": "REF365",
-        "Trasfer_Date": "2018-01-09",
-        "Trasfer_Amount": 18155
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT148",
-        "Remittance_Invoice_No": "RIV589",
-        "Provider_Invoice_Number": "PRO387",
-        "Payer_Invoice_Number": "IV570",
-        "Trasfer_Date": "2016-11-05",
-        "Invoice_Amount": 14402,
-        "Paid_Amount": 11293,
-        "Discount_Amount": 14690
+        "Transfer_Number": "RTG506",
+        "Transfer_Reference": "REF705",
+        "Trasfer_Date": "2016-10-02",
+        "Trasfer_Amount": 18140
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT315",
-        "Payer_Code": "PC500",
+        "Remittance_No": "RT633",
+        "Payer_Code": "PC365",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG744",
-        "Transfer_Reference": "REF452",
-        "Trasfer_Date": "2016-07-26",
-        "Trasfer_Amount": 17515
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT354",
-        "Remittance_Invoice_No": "RIV570",
-        "Provider_Invoice_Number": "PRO549",
-        "Payer_Invoice_Number": "IV793",
-        "Trasfer_Date": "2017-07-20",
-        "Invoice_Amount": 15537,
-        "Paid_Amount": 14336,
-        "Discount_Amount": 17139
+        "Transfer_Number": "RTG602",
+        "Transfer_Reference": "REF771",
+        "Trasfer_Date": "2017-12-18",
+        "Trasfer_Amount": 14288
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT601",
-        "Payer_Code": "PC622",
+        "Remittance_No": "RT593",
+        "Payer_Code": "PC186",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG326",
-        "Transfer_Reference": "REF898",
-        "Trasfer_Date": "2016-07-11",
-        "Trasfer_Amount": 19538
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT584",
-        "Remittance_Invoice_No": "RIV764",
-        "Provider_Invoice_Number": "PRO862",
-        "Payer_Invoice_Number": "IV468",
-        "Trasfer_Date": "2016-10-14",
-        "Invoice_Amount": 19836,
-        "Paid_Amount": 14669,
-        "Discount_Amount": 19793
+        "Transfer_Number": "RTG140",
+        "Transfer_Reference": "REF101",
+        "Trasfer_Date": "2017-07-12",
+        "Trasfer_Amount": 18654
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT716",
-        "Payer_Code": "PC550",
+        "Remittance_No": "RT342",
+        "Payer_Code": "PC251",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG501",
-        "Transfer_Reference": "REF818",
-        "Trasfer_Date": "2016-04-14",
-        "Trasfer_Amount": 15319
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT189",
-        "Remittance_Invoice_No": "RIV895",
-        "Provider_Invoice_Number": "PRO117",
-        "Payer_Invoice_Number": "IV209",
-        "Trasfer_Date": "2017-12-15",
-        "Invoice_Amount": 17543,
-        "Paid_Amount": 13013,
-        "Discount_Amount": 16187
+        "Transfer_Number": "RTG789",
+        "Transfer_Reference": "REF589",
+        "Trasfer_Date": "2017-02-15",
+        "Trasfer_Amount": 13568
       }
     ]
   },
   {
     "Header": [
       {
-        "Remittance_No": "RT874",
-        "Payer_Code": "PC367",
+        "Remittance_No": "RT474",
+        "Payer_Code": "PC753",
         "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG795",
-        "Transfer_Reference": "REF540",
-        "Trasfer_Date": "2017-09-13",
-        "Trasfer_Amount": 12368
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT150",
-        "Remittance_Invoice_No": "RIV610",
-        "Provider_Invoice_Number": "PRO448",
-        "Payer_Invoice_Number": "IV726",
-        "Trasfer_Date": "2017-09-18",
-        "Invoice_Amount": 15508,
-        "Paid_Amount": 10777,
-        "Discount_Amount": 16743
-      }
-    ]
-  },
-  {
-    "Header": [
-      {
-        "Remittance_No": "RT599",
-        "Payer_Code": "PC776",
-        "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG123",
-        "Transfer_Reference": "REF882",
-        "Trasfer_Date": "2016-12-08",
-        "Trasfer_Amount": 18263
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT368",
-        "Remittance_Invoice_No": "RIV746",
-        "Provider_Invoice_Number": "PRO855",
-        "Payer_Invoice_Number": "IV697",
-        "Trasfer_Date": "2016-08-21",
-        "Invoice_Amount": 12355,
-        "Paid_Amount": 10157,
-        "Discount_Amount": 16657
-      }
-    ]
-  },
-  {
-    "Header": [
-      {
-        "Remittance_No": "RT197",
-        "Payer_Code": "PC354",
-        "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG456",
-        "Transfer_Reference": "REF213",
-        "Trasfer_Date": "2017-07-30",
-        "Trasfer_Amount": 15056
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT119",
-        "Remittance_Invoice_No": "RIV117",
-        "Provider_Invoice_Number": "PRO229",
-        "Payer_Invoice_Number": "IV345",
-        "Trasfer_Date": "2017-01-08",
-        "Invoice_Amount": 13397,
-        "Paid_Amount": 14313,
-        "Discount_Amount": 11453
-      }
-    ]
-  },
-  {
-    "Header": [
-      {
-        "Remittance_No": "RT484",
-        "Payer_Code": "PC529",
-        "Transfer_Mode": "RTGS",
-        "Transfer_Number": "RTG656",
-        "Transfer_Reference": "REF607",
-        "Trasfer_Date": "2018-01-11",
-        "Trasfer_Amount": 18226
-      }
-    ],
-    "Lines": [
-      {
-        "Remittance_No": "RT761",
-        "Remittance_Invoice_No": "RIV149",
-        "Provider_Invoice_Number": "PRO733",
-        "Payer_Invoice_Number": "IV510",
-        "Trasfer_Date": "2016-12-21",
-        "Invoice_Amount": 18743,
-        "Paid_Amount": 15246,
-        "Discount_Amount": 15496
+        "Transfer_Number": "RTG155",
+        "Transfer_Reference": "REF587",
+        "Trasfer_Date": "2016-09-17",
+        "Trasfer_Amount": 13761
       }
     ]
   }
