@@ -1,102 +1,62 @@
 [
   {
-    "Header": [
-      {
-        "Remittance_No": "RT486",
-        "Payer_Code": "PC750",
-        "Trasfer_Date": "2017-07-13",
-        "Trasfer_Amount": 16148
-      }
-    ]
+    "Remittance_No": "RT842",
+    "Payer_Code": "PC426",
+    "Trasfer_Date": "2016-08-06",
+    "Trasfer_Amount": 15490
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT241",
-        "Payer_Code": "PC722",
-        "Trasfer_Date": "2017-06-16",
-        "Trasfer_Amount": 17537
-      }
-    ]
+    "Remittance_No": "RT852",
+    "Payer_Code": "PC804",
+    "Trasfer_Date": "2016-05-09",
+    "Trasfer_Amount": 10534
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT893",
-        "Payer_Code": "PC399",
-        "Trasfer_Date": "2016-02-14",
-        "Trasfer_Amount": 11644
-      }
-    ]
+    "Remittance_No": "RT543",
+    "Payer_Code": "PC727",
+    "Trasfer_Date": "2017-11-27",
+    "Trasfer_Amount": 18787
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT584",
-        "Payer_Code": "PC696",
-        "Trasfer_Date": "2017-12-12",
-        "Trasfer_Amount": 10138
-      }
-    ]
+    "Remittance_No": "RT381",
+    "Payer_Code": "PC417",
+    "Trasfer_Date": "2016-04-10",
+    "Trasfer_Amount": 11448
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT783",
-        "Payer_Code": "PC633",
-        "Trasfer_Date": "2017-06-13",
-        "Trasfer_Amount": 13001
-      }
-    ]
+    "Remittance_No": "RT181",
+    "Payer_Code": "PC771",
+    "Trasfer_Date": "2016-07-02",
+    "Trasfer_Amount": 12304
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT813",
-        "Payer_Code": "PC371",
-        "Trasfer_Date": "2016-01-08",
-        "Trasfer_Amount": 19787
-      }
-    ]
+    "Remittance_No": "RT316",
+    "Payer_Code": "PC660",
+    "Trasfer_Date": "2017-03-16",
+    "Trasfer_Amount": 17068
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT490",
-        "Payer_Code": "PC397",
-        "Trasfer_Date": "2018-01-31",
-        "Trasfer_Amount": 13458
-      }
-    ]
+    "Remittance_No": "RT761",
+    "Payer_Code": "PC212",
+    "Trasfer_Date": "2017-06-20",
+    "Trasfer_Amount": 13325
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT391",
-        "Payer_Code": "PC774",
-        "Trasfer_Date": "2017-08-29",
-        "Trasfer_Amount": 19523
-      }
-    ]
+    "Remittance_No": "RT466",
+    "Payer_Code": "PC422",
+    "Trasfer_Date": "2017-11-15",
+    "Trasfer_Amount": 11458
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT234",
-        "Payer_Code": "PC250",
-        "Trasfer_Date": "2017-06-21",
-        "Trasfer_Amount": 10339
-      }
-    ]
+    "Remittance_No": "RT151",
+    "Payer_Code": "PC436",
+    "Trasfer_Date": "2016-11-05",
+    "Trasfer_Amount": 12592
   },
   {
-    "Header": [
-      {
-        "Remittance_No": "RT225",
-        "Payer_Code": "PC860",
-        "Trasfer_Date": "2016-10-23",
-        "Trasfer_Amount": 14078
-      }
-    ]
+    "Remittance_No": "RT376",
+    "Payer_Code": "PC466",
+    "Trasfer_Date": "2017-10-07",
+    "Trasfer_Amount": 18979
   }
 ]
